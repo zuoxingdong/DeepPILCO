@@ -4,4 +4,7 @@ This repo tries to reproduce the results of the following paper in PyTorch
 
 However, it is failed to learn a good controller. The purpose of releasing this repo is to encourage if someone interested in to help to seek for potential bugs or check for reproducibility of the algorithm. 
 
+# Env:
 To be consistent with the original paper, I have modified the environment 'CartPole-SwingUp' with same 'physics' coefficients used in the paper. 
+
+### Any help or comments are highly welcomed to make this algorithm work or check for reproducibility together. 
